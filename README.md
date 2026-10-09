@@ -17,15 +17,15 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **0** |
-| 🟡 Medium | **7** |
+| 🟡 Medium | **5** |
 | 🔴 Hard | **0** |
-| **Total** | **7** |
+| **Total** | **5** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| C | **7** |
+| C | **5** |
 
 ## 📂 Repository Structure
 
